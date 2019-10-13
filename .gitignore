@@ -1,0 +1,6 @@
+env
+.vscode
+craft*.json
+credentials.json
+token.pickle
+__pycache__
